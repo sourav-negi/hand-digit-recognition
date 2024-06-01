@@ -21,4 +21,4 @@ This repository contains the frontend code for a Hand Digit Recognition applicat
 This project is licensed under the terms of the MIT license. See the [LICENSE] file for details.
 
 ## Contact
-If you have any questions, feel free to reach out to me at ahmadfirdosh008@gmail.com.
+If you have any questions, feel free to reach out to me at souravvnegi@gmail.com.
